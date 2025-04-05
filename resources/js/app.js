@@ -1,1 +1,1 @@
-require('./bootstrap');
+   composer create-project --prefer-dist laravel/laravel inventory-management
